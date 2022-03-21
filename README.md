@@ -1,2 +1,2 @@
-This project is made by QT,C++.It provides curricula-variable service.The '233.txt' and 'yanjiusheng.txt' are files which include all student members that can log in this system.There is no database,so if the programme is exited,all info will be deleted.There will be an easy-made ui when you start the 'main.cpp' and it needs your id and password,which is already included in the'233.txt' or the 'yanjiusheng.txt' .After you log in,there will be a ui which needs you to choose your identification.if you log in with the undergraduate info which is in '233.txt' and you say you are postgraduate,the programme will tell you that there is no such person.There is also a ui which shows all the curriculum you can choose.Duplicated curriculum is permitted.After you finish it,you can check your credit,curriculum,and tuition.And you also can get how many students choose the same curriculum.
-The 'start.cpp'is none-ui version.The ui-version is 'main.cpp'
+选课系统
+
